@@ -4,4 +4,4 @@
 MyMessageService.java  -- some code are referred from demo code\
 SendMessagesActivity.java  -- some code are referred from demo code
 
-/StickWithEm/commits.png
+![alt text](/StickWithEm/commits.png)
