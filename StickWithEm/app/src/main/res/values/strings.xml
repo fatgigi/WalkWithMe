@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hw_try</string>
+    <string name="login">Login</string>
+    <string name="entry_you_name">Entry you name:</string>
+    <string name="signin">SignUp</string>
+    <string name="send">send</string>
+    <string name="enter_message">enterMessage</string>
+    <string name="enter_token">enterToken</string>
+    <string name="enter_title">enterTitle</string>
+    <string name="get_username">get_userName</string>
+</resources>
