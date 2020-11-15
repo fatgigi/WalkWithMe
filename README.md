@@ -8,8 +8,10 @@ be delivered to the right user.
 MyMessageService.java  -- some code are referred from demo code\
 SendMessagesActivity.java  -- some code are referred from demo code
 
-
-## Total commits and job division:
+### App Walkthrough GIF
+<img src="http://g.recordit.co/pteToQeSwd.gif" width=250><br>
+---
+### Total commits and job division:
 __Dan Yin__: 8 commits  
 __Yu Fan__: 9 commits  
 __Xu Yuan__: 9 commits  
