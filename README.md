@@ -1,4 +1,4 @@
-# WalkWithMe
+# WalkWithMe_notification
 
 ## Main functions:
 Send messages and optional sticks among different mobile devices.\
@@ -11,11 +11,6 @@ SendMessagesActivity.java  -- some code are referred from demo code
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/pteToQeSwd.gif" width=250><br>
 ---
-### Total commits and job division:
-__Dan Yin__: 8 commits  
-__Yu Fan__: 9 commits  
-__Xu Yuan__: 9 commits  
-__Xiaoqing Hua__: 4 commits  
 
 ![alt text](/StickWithEm/commits.png)
 
